@@ -1,4 +1,4 @@
-<img src="https://github.com/mrathon/idea-pitches/blob/master/imgs/logo.png" width="450">
+<img src="https://github.com/mrathon/idea-pitches/blob/master/imgs/logo.png" width="400">
 
 # Idea Pitches – MRathon 2019
 Project idea pitches for MRathon 2019!
