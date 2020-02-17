@@ -1,7 +1,7 @@
 ---
 name: MRathon 2020 Idea Pitches
 about: Hackathon project pitches go here
-
+labels: MRathon 2020
 ---
 
 > Please fill in the below table to submit your project proposal!
