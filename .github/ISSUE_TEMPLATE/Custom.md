@@ -1,5 +1,5 @@
 ---
-name: MRathon 2019 Idea Pitches
+name: MRathon 2020 Idea Pitches
 about: Hackathon project pitches go here
 
 ---
