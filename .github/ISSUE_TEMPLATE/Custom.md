@@ -1,7 +1,7 @@
 ---
-name: MRathon 2023 Idea Pitches
+name: MRathon 2024 Idea Pitches
 about: Hackathon project pitches go here
-labels: MRathon 2023
+labels: MRathon 2024
 ---
 
 > Please fill in the below table to submit your project proposal!
